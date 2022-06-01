@@ -1,0 +1,17 @@
+.data-collec-conatiner{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.data-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.data-image{
+    width: 300px;
+    height: 300px;
+}
